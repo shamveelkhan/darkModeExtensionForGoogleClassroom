@@ -1,0 +1,63 @@
+* {
+    box-sizing: border-box !important;
+    outline: none !important;
+  }
+  
+  body {
+    background-color: #121212 !important;
+    color: white !important;
+  }
+  
+  header, .navigation, .sidebar, .material-sidebar {
+    background-color: #1f1f1f !important;
+    border: none !important;
+  }
+  
+  a, button {
+    color: #1e90ff !important;
+  }
+  
+  input, textarea, select {
+    background-color: #333 !important;
+    color: white !important;
+    border: none !important;
+    outline: none !important;
+  }
+  
+  div, section, .card, .item {
+    background-color: #1e1e1e !important;
+    border: none !important;
+  }
+  
+  footer {
+    background-color: #1f1f1f !important;
+    border: none !important;
+  }
+  
+  *::after, *::before {
+    box-shadow: none !important;
+  }
+  
+  button:hover, a:hover {
+    background-color: #444 !important;
+  }
+  
+  [class*="white"], .border-white, .box-shadow-white {
+    border: none !important;
+    box-shadow: none !important;
+  }
+  
+  .onkcGd:hover, .onkcGd:focus, .WPhuJf:hover, .WPhuJf:focus,
+  .etFl5b, .etFl5b:visited, .etFl5b:hover, .etFl5b:focus, 
+  .UtdKPb:hover, .UtdKPb:focus, .yixX5e:hover .UtdKPb, .yixX5e:focus .UtdKPb {
+    background-color: #1e1e1e !important;
+  }
+  
+  li:hover {
+    background-color: #333 !important;
+    cursor: pointer;
+  }
+  div {
+    color: white;
+  }
+  

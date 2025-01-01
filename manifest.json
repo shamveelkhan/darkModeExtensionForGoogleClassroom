@@ -1,0 +1,16 @@
+{
+    "manifest_version": 3,
+    "name": "Google Classroom Dark Mode",
+    "version": "1.0",
+    "description": "Changes the background color of Google Classroom to black.",
+    "permissions": ["activeTab"],
+    "content_scripts": [
+      {
+        "matches": ["https://classroom.google.com/*"],
+        "css": ["dark-mode.css"]
+      }
+    ],
+    "icons": {
+      "48": "48.png"
+    }
+}
