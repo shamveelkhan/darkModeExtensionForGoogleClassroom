@@ -1,4 +1,4 @@
-##shifted to `https://github.com/Shamveel-Khan/darkModeForGoogleClassroom`
+## Shifted to `https://github.com/Shamveel-Khan/darkModeForGoogleClassroom`
 
 # Google Classroom Dark Mode Extension
 
