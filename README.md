@@ -1,3 +1,5 @@
+##shifted to `https://github.com/Shamveel-Khan/darkModeForGoogleClassroom`
+
 # Google Classroom Dark Mode Extension
 
 A simple Chrome extension that changes the background color of Google Classroom to black, making it easier on the eyes, especially in low-light environments.
